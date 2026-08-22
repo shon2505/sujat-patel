@@ -1,0 +1,463 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>EDIFERA INFRATECH PVT. LTD. | Premium Construction Management & Infrastructure</title>
+  <meta name="description" content="EDIFERA INFRATECH PVT. LTD. delivers architectural excellence, high-rise RCC structures, industrial PEB structures, and post-tensioned systems across Maharashtra.">
+  <link rel="icon" type="image/jpeg" href="/assets/images/logo.jpg">
+  <link rel="stylesheet" href="/src/style.css">
+</head>
+<body>
+
+  <!-- Custom Minimal Cursor -->
+  <div class="custom-cursor"></div>
+
+  <!-- Header Navigation -->
+  <header class="header">
+    <div class="container header-inner">
+      <a href="#" class="brand-logo" data-target="home-view">
+        <img src="/assets/images/logo.jpg" alt="Edifera Infratech Logo" class="brand-logo-img">
+        <div class="brand-text">
+          <span class="brand-name">EDIFERA</span>
+          <span class="brand-sub">INFRATECH PVT LTD</span>
+        </div>
+      </a>
+
+      <nav>
+        <ul class="nav-links">
+          <li><a href="#projects" class="nav-link" data-target="projects-view">Projects</a></li>
+          <li><a href="#services" class="nav-link" data-target="services-view">Services</a></li>
+          <li><a href="#about" class="nav-link" data-target="about-view">About</a></li>
+          <li><a href="#contact" class="nav-link" data-target="contact-view">Contact</a></li>
+        </ul>
+      </nav>
+
+      <button class="nav-cta" data-target="contact-view">
+        <span>Request a Quote &rarr;</span>
+      </button>
+
+      <div class="mobile-menu-btn" aria-label="Toggle Navigation Menu">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+    </div>
+  </header>
+
+  <!-- Mobile Navigation Drawer -->
+  <div class="mobile-nav-modal">
+    <ul class="mobile-nav-links">
+      <li><a href="#" class="mobile-nav-link" data-target="home-view">Home</a></li>
+      <li><a href="#" class="mobile-nav-link" data-target="projects-view">Selected Work</a></li>
+      <li><a href="#" class="mobile-nav-link" data-target="services-view">Services</a></li>
+      <li><a href="#" class="mobile-nav-link" data-target="about-view">About Company</a></li>
+      <li><a href="#" class="mobile-nav-link" data-target="contact-view">Contact Us</a></li>
+    </ul>
+  </div>
+
+  <main>
+    <!-- HOME VIEW -->
+    <div id="home-view" class="page-view active">
+      
+      <!-- Hero Section with Canvas Video -->
+      <section class="hero">
+        <div class="hero-canvas-container">
+          <canvas id="hero-canvas"></canvas>
+        </div>
+        <div class="hero-overlay"></div>
+
+        <div class="container hero-content">
+          <div class="hero-tag">
+            <span class="hero-tag-badge">SINCE 2019 &bull; INCORPORATED 2025</span>
+          </div>
+          <h1 class="hero-headline">
+            WE DON'T JUST<br>BUILD STRUCTURES.<br>
+            <span class="serif-italic">WE BUILD LEGACIES.</span>
+          </h1>
+          <p class="hero-subtext">
+            Construction management and execution delivered with precision, transparency, and accountability. Landmark RCC, industrial steel, and post-tensioned infrastructure across Maharashtra.
+          </p>
+          <div class="hero-cta-group">
+            <button class="btn-bronze" data-target="projects-view">Explore Selected Work &rarr;</button>
+            <button class="btn-outline-light" data-target="contact-view">Start a Conversation</button>
+          </div>
+        </div>
+
+        <div class="container hero-footer">
+          <div class="hero-capabilities">
+            <span>CONSTRUCTION MANAGEMENT</span>
+            <span>&bull;</span>
+            <span>ENGINEERING</span>
+            <span>&bull;</span>
+            <span>EXECUTION</span>
+          </div>
+          <div class="hero-scroll-indicator" onclick="document.getElementById('philosophy-anchor').scrollIntoView({behavior: 'smooth'})">
+            <span>SCROLL TO EXPLORE</span>
+            <span class="scroll-arrow">&darr;</span>
+          </div>
+        </div>
+      </section>
+
+      <!-- Editorial Philosophy Statement -->
+      <section id="philosophy-anchor" class="editorial-statement section-padding">
+        <div class="container">
+          <span class="editorial-tag">THE EDIFERA PHILOSOPHY</span>
+          <h2 class="editorial-headline">
+            CONSTRUCTION IS MORE THAN CONCRETE.<br>
+            <strong>It's planning. It's people. It's precision. It's responsibility.</strong>
+          </h2>
+
+          <div class="pillars-grid">
+            <div class="pillar-item">
+              <div class="pillar-num">01 / PLANNING</div>
+              <h3 class="pillar-title">Engineered Rigor</h3>
+              <p class="pillar-desc">Structural modeling, pre-construction feasibility, and risk mitigation long before breaking ground.</p>
+            </div>
+            <div class="pillar-item">
+              <div class="pillar-num">02 / PEOPLE</div>
+              <h3 class="pillar-title">Skilled Workforce</h3>
+              <p class="pillar-desc">Seasoned civil engineers, post-tensioning specialists, and safety directors united by craft.</p>
+            </div>
+            <div class="pillar-item">
+              <div class="pillar-num">03 / PRECISION</div>
+              <h3 class="pillar-title">Uncompromising Quality</h3>
+              <p class="pillar-desc">Strict material testing, laser tolerances, and continuous quality audits at every structural lift.</p>
+            </div>
+            <div class="pillar-item">
+              <div class="pillar-num">04 / RESPONSIBILITY</div>
+              <h3 class="pillar-title">Absolute Ownership</h3>
+              <p class="pillar-desc">Complete transparency, guaranteed timeline delivery, and lifetime structural integrity.</p>
+            </div>
+          </div>
+
+          <p class="company-summary">
+            EDIFERA INFRATECH PVT. LTD. is a fast-growing construction and infrastructure firm headquartered in Chhatrapati Sambhajinagar (Aurangabad). Specializing in RCC superstructures, industrial PEB systems, post-tensioned slabs, and commercial infrastructure, we combine deep engineering expertise with seamless execution.
+          </p>
+        </div>
+      </section>
+
+      <!-- Mission & Vision -->
+      <section class="mission-vision-section section-padding">
+        <div class="container">
+          <div class="mv-grid">
+            <div class="mv-card">
+              <span class="mv-label">OUR MISSION</span>
+              <h3 class="mv-quote">"To deliver construction projects with precision, transparency, and uncompromising quality."</h3>
+              <p class="mv-body">Elevating conventional construction into a disciplined engineering science, ensuring every RCC beam, steel joint, and post-tensioned tendon meets rigorous structural safety standards.</p>
+            </div>
+            <div class="mv-card">
+              <span class="mv-label">OUR VISION</span>
+              <h3 class="mv-quote">"To create lasting spaces that shape communities and stand the test of time."</h3>
+              <p class="mv-body">Becoming Maharashtra's most trusted structural execution partner, recognized for pioneering modern building technologies and enduring infrastructure legacies.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Selected Work Horizontal Gallery -->
+      <section class="projects-section section-padding">
+        <div class="container">
+          <div class="section-header-dark">
+            <div>
+              <span class="hero-tag">FEATURED PORTFOLIO</span>
+              <h2 class="section-title-dark">SELECTED <span>WORK</span></h2>
+            </div>
+            <div class="project-controls">
+              <button class="control-btn" id="scroll-left-btn" aria-label="Scroll left">&larr;</button>
+              <button class="control-btn" id="scroll-right-btn" aria-label="Scroll right">&rarr;</button>
+            </div>
+          </div>
+
+          <div class="horizontal-scroll-wrap" id="home-projects-container"></div>
+        </div>
+      </section>
+
+      <!-- Services Section -->
+      <section class="services-section section-padding">
+        <div class="container">
+          <span class="editorial-tag">WHAT WE DO</span>
+          <h2 class="editorial-headline" style="margin-bottom: 3rem;">
+            CAPABILITIES &amp; <strong>Core Engineering Services</strong>
+          </h2>
+          <div id="home-services-container"></div>
+        </div>
+      </section>
+
+      <!-- Metrics & Numbers -->
+      <section class="metrics-section section-padding-sm">
+        <div class="container">
+          <div class="metrics-grid">
+            <div class="metric-card">
+              <div class="metric-val">6<span class="accent">+</span></div>
+              <div class="metric-label">Years Operating Experience</div>
+            </div>
+            <div class="metric-card">
+              <div class="metric-val">50<span class="accent">+</span></div>
+              <div class="metric-label">Projects Completed</div>
+            </div>
+            <div class="metric-card">
+              <div class="metric-val">1M<span class="accent">+</span></div>
+              <div class="metric-label">Sq. Ft. Constructed</div>
+            </div>
+            <div class="metric-card">
+              <div class="metric-val">100<span class="accent">%</span></div>
+              <div class="metric-label">Client Trust &amp; Safety</div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Trust Client Strip -->
+      <section class="trust-strip">
+        <div class="container">
+          <div class="trust-title">TRUSTED BY LEADING DEVELOPERS &amp; INDUSTRIAL ENTERPRISES</div>
+          <div class="trust-logos">
+            <div class="trust-logo-item">MAHARASHTRA INDUSTRIAL INFRA</div>
+            <div class="trust-logo-item">WALUJ COMMERCIAL HUB</div>
+            <div class="trust-logo-item">AURUM REALTY</div>
+            <div class="trust-logo-item">PATEL INFRASTRUCTURES</div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Philosophy / Built Differently -->
+      <section class="philosophy-section section-padding">
+        <div class="container">
+          <span class="editorial-tag">THE EDIFERA PROMISE</span>
+          <h2 class="editorial-headline" style="margin-bottom: 3.5rem;">BUILT DIFFERENTLY.</h2>
+
+          <div class="principles-list">
+            <div class="principle-item"><div class="principle-bullet"></div><div class="principle-text">WE PLAN BEFORE WE BUILD.</div></div>
+            <div class="principle-item"><div class="principle-bullet"></div><div class="principle-text">WE COMMUNICATE BEFORE PROBLEMS GROW.</div></div>
+            <div class="principle-item"><div class="principle-bullet"></div><div class="principle-text">WE TAKE OWNERSHIP FROM START TO FINISH.</div></div>
+            <div class="principle-item"><div class="principle-bullet"></div><div class="principle-text">QUALITY IS NEVER AN AFTERTHOUGHT.</div></div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Contact CTA Section -->
+      <section class="contact-section section-padding">
+        <div class="container">
+          <div class="contact-split">
+            <div class="contact-info-side">
+              <div>
+                <span class="editorial-tag">START A CONVERSATION</span>
+                <h2 class="contact-headline">HAVE A PROJECT<br><strong>IN MIND?</strong></h2>
+                <p class="hero-subtext" style="color: var(--text-muted);">
+                  Tell us about your upcoming RCC structure, commercial project, or industrial PEB requirement. Our engineering leadership will get in touch with you.
+                </p>
+              </div>
+
+              <div class="contact-details-list">
+                <div class="contact-detail-item">
+                  <span class="contact-detail-label">DIRECT PHONE</span>
+                  <span class="contact-detail-val">+91 98607 77223 &nbsp;/&nbsp; +91 93713 67720</span>
+                </div>
+                <div class="contact-detail-item">
+                  <span class="contact-detail-label">OFFICE EMAIL</span>
+                  <span class="contact-detail-val">contact@ediferainfra.com</span>
+                </div>
+                <div class="contact-detail-item">
+                  <span class="contact-detail-label">HEADQUARTERS</span>
+                  <span class="contact-detail-val">Behind Patel Lawns, Beed Bypass, CSN (Aurangabad), Maharashtra 431005</span>
+                </div>
+              </div>
+            </div>
+
+            <form class="contact-form" onsubmit="event.preventDefault(); alert('Inquiry sent successfully. The Edifera team will contact you shortly.');">
+              <div class="form-group">
+                <label class="form-label">Full Name</label>
+                <input type="text" class="form-input" placeholder="Your name" required>
+              </div>
+              <div class="form-group">
+                <label class="form-label">Email Address</label>
+                <input type="email" class="form-input" placeholder="name@company.com" required>
+              </div>
+              <div class="form-group">
+                <label class="form-label">Contact Number</label>
+                <input type="tel" class="form-input" placeholder="+91 00000 00000" required>
+              </div>
+              <div class="form-group">
+                <label class="form-label">Project Details</label>
+                <textarea class="form-textarea" placeholder="Tell us briefly about your project scope..." required></textarea>
+              </div>
+              <button type="submit" class="form-submit-btn">
+                <span>Send Inquiry &rarr;</span>
+              </button>
+            </form>
+          </div>
+        </div>
+      </section>
+
+    </div>
+
+    <!-- PROJECTS VIEW -->
+    <div id="projects-view" class="page-view">
+      <section class="section-padding" style="background-color: var(--bg-dark); color: var(--text-dark-primary);">
+        <div class="container">
+          <span class="hero-tag">COMPREHENSIVE PORTFOLIO</span>
+          <h1 class="hero-headline" style="margin-bottom: 2rem;">SELECTED <span>PROJECTS</span></h1>
+          <p class="hero-subtext" style="margin-bottom: 4rem;">Landmark engineering and construction projects delivered across Maharashtra by Edifera Infratech.</p>
+          <div id="all-projects-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 2.5rem;"></div>
+        </div>
+      </section>
+    </div>
+
+    <!-- SERVICES VIEW -->
+    <div id="services-view" class="page-view">
+      <section class="section-padding" style="background-color: var(--bg-ivory);">
+        <div class="container">
+          <span class="editorial-tag">WHAT WE EXCEL AT</span>
+          <h1 class="editorial-headline" style="margin-bottom: 2rem;">OUR <strong>CAPABILITIES &amp; SERVICES</strong></h1>
+          <p class="hero-subtext" style="color: var(--text-muted); margin-bottom: 4rem;">Structural engineering, post-tensioned slabs, industrial PEB structures, and turnkey construction management.</p>
+          <div id="all-services-list"></div>
+        </div>
+      </section>
+    </div>
+
+    <!-- ABOUT VIEW -->
+    <div id="about-view" class="page-view">
+      <section class="section-padding" style="background-color: var(--bg-ivory);">
+        <div class="container">
+          <span class="editorial-tag">ABOUT EDIFERA INFRATECH</span>
+          <h1 class="editorial-headline" style="margin-bottom: 2.5rem;">BUILDING WITH PURPOSE. <strong>DELIVERING WITH PRECISION.</strong></h1>
+          
+          <div class="contact-split" style="margin-bottom: 4rem;">
+            <div>
+              <p class="company-summary" style="margin-bottom: 2rem;">
+                EDIFERA INFRATECH PVT. LTD. is a fast-growing construction company dedicated to delivering excellence in every project. Operating since 2019 and incorporated in 2025, we specialize in RCC structures, industrial PEB systems, post-tensioned slabs, residential, commercial, and infrastructure developments.
+              </p>
+              <p style="color: var(--text-muted); font-size: 1rem; line-height: 1.8;">
+                Our head office is proudly located in CSN (Aurangabad). We combine deep engineering expertise, a skilled technical team, and robust project management practices to create structures that stand the test of time.
+              </p>
+            </div>
+            <div style="background-color: var(--bg-white); padding: 3rem; border: 1px solid var(--border-concrete);">
+              <h3 style="font-size: 1.1rem; font-weight: 700; margin-bottom: 1.5rem; text-transform: uppercase; color: var(--accent-bronze);">Company Overview</h3>
+              <ul style="list-style: none; display: flex; flex-direction: column; gap: 1rem; font-size: 0.95rem; color: var(--text-secondary);">
+                <li><strong>Headquarters:</strong> CSN (Aurangabad), Maharashtra</li>
+                <li><strong>Establishment:</strong> Trust Since 2019 • Incorporated 2025</li>
+                <li><strong>Core Specialization:</strong> High-Rise RCC, PEB Steel, PT Slabs</li>
+                <li><strong>Regional Footprint:</strong> Maharashtra &amp; Western India</li>
+                <li><strong>Quality Standards:</strong> ISO Compliant Execution &amp; Safety Integrity</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+
+    <!-- CONTACT VIEW -->
+    <div id="contact-view" class="page-view">
+      <section class="section-padding" style="background-color: var(--bg-ivory);">
+        <div class="container">
+          <span class="editorial-tag">GET IN TOUCH</span>
+          <h1 class="editorial-headline" style="margin-bottom: 3rem;">LET'S BUILD <strong>SOMETHING GREAT.</strong></h1>
+          
+          <div class="contact-split">
+            <div class="contact-info-side">
+              <p class="hero-subtext" style="color: var(--text-muted); margin-bottom: 2rem;">
+                Our engineering team is ready to review your structural drawings, project schedules, and quotation estimates.
+              </p>
+              <div class="contact-details-list">
+                <div class="contact-detail-item">
+                  <span class="contact-detail-label">OFFICE PHONES</span>
+                  <span class="contact-detail-val">+91 98607 77223 &nbsp;|&nbsp; +91 93713 67720</span>
+                </div>
+                <div class="contact-detail-item">
+                  <span class="contact-detail-label">EMAIL ADDRESS</span>
+                  <span class="contact-detail-val">contact@ediferainfra.com</span>
+                </div>
+                <div class="contact-detail-item">
+                  <span class="contact-detail-label">HEAD OFFICE</span>
+                  <span class="contact-detail-val">Behind Patel Lawns, Beed Bypass, CSN (Aurangabad), Maharashtra 431005</span>
+                </div>
+              </div>
+            </div>
+
+            <form class="contact-form" onsubmit="event.preventDefault(); alert('Inquiry received. The Edifera team will reach out shortly.');">
+              <div class="form-group">
+                <label class="form-label">Full Name</label>
+                <input type="text" class="form-input" placeholder="Your name" required>
+              </div>
+              <div class="form-group">
+                <label class="form-label">Email Address</label>
+                <input type="email" class="form-input" placeholder="name@company.com" required>
+              </div>
+              <div class="form-group">
+                <label class="form-label">Contact Phone</label>
+                <input type="tel" class="form-input" placeholder="+91 00000 00000" required>
+              </div>
+              <div class="form-group">
+                <label class="form-label">Project Scope</label>
+                <textarea class="form-textarea" placeholder="Tell us briefly about your project..." required></textarea>
+              </div>
+              <button type="submit" class="form-submit-btn">
+                <span>Send Inquiry &rarr;</span>
+              </button>
+            </form>
+          </div>
+        </div>
+      </section>
+    </div>
+
+  </main>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-top">
+        <div>
+          <a href="#" class="brand-logo" data-target="home-view">
+            <img src="/assets/images/logo.jpg" alt="Edifera Logo" class="brand-logo-img dark-mode">
+            <div class="brand-text">
+              <span class="brand-name" style="color: #fff;">EDIFERA</span>
+              <span class="brand-sub">INFRATECH PVT LTD</span>
+            </div>
+          </a>
+          <p class="footer-brand-statement">
+            "BUILDING WITH PURPOSE.<br>DELIVERING WITH PRECISION."
+          </p>
+        </div>
+
+        <div>
+          <h4 class="footer-heading">NAVIGATION</h4>
+          <ul class="footer-links">
+            <li><a href="#" class="footer-link" data-target="home-view">Home</a></li>
+            <li><a href="#" class="footer-link" data-target="projects-view">Selected Work</a></li>
+            <li><a href="#" class="footer-link" data-target="services-view">Services</a></li>
+            <li><a href="#" class="footer-link" data-target="about-view">About Us</a></li>
+            <li><a href="#" class="footer-link" data-target="contact-view">Contact</a></li>
+          </ul>
+        </div>
+
+        <div>
+          <h4 class="footer-heading">CAPABILITIES</h4>
+          <ul class="footer-links">
+            <li><span class="footer-link">RCC Structures</span></li>
+            <li><span class="footer-link">PEB Steel Buildings</span></li>
+            <li><span class="footer-link">Post-Tensioned Slabs</span></li>
+            <li><span class="footer-link">Civil Infrastructure</span></li>
+          </ul>
+        </div>
+
+        <div>
+          <h4 class="footer-heading">HEADQUARTERS</h4>
+          <p style="font-size: 0.88rem; color: var(--text-dark-secondary); line-height: 1.7;">
+            Behind Patel Lawns, Beed Bypass,<br>
+            CSN (Aurangabad), Maharashtra 431005<br>
+            +91 98607 77223 / +91 93713 67720
+          </p>
+        </div>
+      </div>
+
+      <div class="footer-bottom">
+        <span>&copy; 2026 EDIFERA INFRATECH PVT. LTD. TRUST SINCE 2019 • INCORPORATED 2025.</span>
+        <span>ARCHITECTURAL LUXURY &times; CONSTRUCTION PRECISION</span>
+      </div>
+    </div>
+  </footer>
+
+  <script type="module" src="/src/main.js"></script>
+</body>
+</html>

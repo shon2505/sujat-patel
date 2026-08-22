@@ -1,0 +1,1012 @@
+# PREMIUM CONSTRUCTION MANAGEMENT WEBSITE — MASTER PROMPT
+
+## IMPORTANT — START IMMEDIATELY
+
+**Do NOT create an implementation plan, project plan, roadmap, task breakdown, or explanation before starting.**
+
+**Skip the implementation plan completely. Start building the project immediately.**
+
+Do not ask unnecessary questions before beginning.
+
+First, inspect the existing company website provided below, extract the available company information, project information, project names, descriptions, images, services, contact details, and other useful content, and use that information as the foundation of the new website.
+
+### EXISTING WEBSITE
+
+https://ediferainfra.com/
+
+---
+
+# PROJECT OBJECTIVE
+
+Redesign and build a **premium construction management company website** from scratch.
+
+This must NOT look like a typical construction-company template.
+
+Do not create a generic website with:
+
+* repetitive rectangular cards
+* excessive sections
+* generic construction icons
+* black/yellow construction colors
+* stock photos of workers wearing helmets
+* excessive gradients
+* excessive glassmorphism
+* huge amounts of text
+* template-looking service cards
+* unnecessary dashboards
+* login/authentication
+* backend functionality
+* admin panels
+* unnecessary forms
+* over-engineered features
+
+This is primarily a **premium public-facing brand website**.
+
+The website should communicate:
+
+**Construction Management + Precision + Trust + Experience + Quality + Premium Execution**
+
+The experience should feel closer to a **premium architecture / infrastructure / engineering studio website** than a traditional construction website.
+
+---
+
+# CORE DESIGN DIRECTION
+
+The design concept is:
+
+## ARCHITECTURAL LUXURY × CONSTRUCTION PRECISION
+
+The website should feel:
+
+* premium
+* bright
+* minimal
+* cinematic
+* sophisticated
+* spacious
+* modern
+* editorial
+* trustworthy
+* commercial
+* architectural
+* confident
+
+The user should have the reaction:
+
+> **"Wow, this feels expensive."**
+
+Not:
+
+> "Wow, look how many animations this website has."
+
+Animation must be subtle and intentional.
+
+Every movement should have a purpose.
+
+---
+
+# COLOR PALETTE
+
+Use this palette throughout the entire website.
+
+## Primary Palette — Architectural Ivory
+
+### Background
+
+`#F7F5F0`
+
+Warm architectural ivory.
+
+### Secondary Background
+
+`#FFFFFF`
+
+Use for selected clean sections.
+
+### Primary Text
+
+`#18221F`
+
+Deep charcoal-green.
+
+### Secondary Green
+
+`#344A42`
+
+Sophisticated muted green.
+
+### Premium Accent
+
+`#B98B5E`
+
+Muted bronze.
+
+Use this sparingly for:
+
+* small highlights
+* hover states
+* tiny decorative details
+* selected numbers
+* subtle CTA accents
+
+### Borders / Concrete
+
+`#DCD7CE`
+
+Use for subtle dividers and structural lines.
+
+Do NOT overuse the bronze color.
+
+The overall website should remain primarily:
+
+**Ivory + White + Deep Charcoal/Green**
+
+with bronze used only as a refined accent.
+
+---
+
+# TYPOGRAPHY
+
+Use a sophisticated combination of modern sans-serif typography and occasional editorial typography.
+
+Primary font options:
+
+* Manrope
+* Inter
+* Plus Jakarta Sans
+
+Prefer **Manrope or Inter** for the primary interface.
+
+For large editorial/display moments, you may use a refined serif such as:
+
+* DM Serif Display
+* Instrument Serif
+* Cormorant Garamond
+
+Do not use the serif everywhere.
+
+Typography should feel architectural and editorial.
+
+Use:
+
+* large headlines
+* generous whitespace
+* tight but elegant typography
+* strong hierarchy
+* short paragraphs
+* restrained uppercase labels
+* carefully controlled letter spacing
+
+Example visual language:
+
+> BUILDING THE FUTURE,
+> *ONE PROJECT AT A TIME.*
+
+The typography itself should contribute to the premium feeling.
+
+---
+
+# OVERALL UX PHILOSOPHY
+
+Do NOT design the homepage as:
+
+Hero → 10 cards → About card → Services cards → Project cards → Testimonials cards → Contact card.
+
+Instead, create a **visual journey**.
+
+The visitor should feel like they are moving through the company's story.
+
+The website should progressively communicate:
+
+**Who we are → What we believe → What we've built → How we work → Why clients trust us → Start a conversation**
+
+Keep the number of sections intentionally limited.
+
+**Less content. More impact.**
+
+---
+
+# NAVIGATION
+
+Keep the navigation extremely minimal.
+
+Desktop navigation should contain approximately:
+
+**LOGO**
+
+Projects
+Services
+About
+
+Right side:
+
+**Request a Quote →**
+
+Do not add unnecessary navigation items.
+
+The Request a Quote button should simply redirect to the **Contact page**.
+
+Do not create a multi-step quote system.
+
+Do not create a complex quotation form.
+
+---
+
+# HERO SECTION
+
+This is the most important visual section of the website.
+
+Create a full-screen cinematic hero.
+
+Use the provided cinematic construction video as the hero background.
+
+The video should be:
+
+* very subtle
+* slow
+* cinematic
+* architectural
+* premium
+* realistic
+* natural
+* sophisticated
+
+Avoid aggressive construction footage.
+
+The video should not look like a commercial advertisement.
+
+It should feel like a cinematic architectural film.
+
+Add a subtle dark/neutral overlay only where required to maintain text readability.
+
+---
+
+## HERO TYPOGRAPHY
+
+Use a powerful but minimal headline.
+
+Example direction:
+
+> WE DON'T JUST
+> BUILD STRUCTURES.
+
+Then:
+
+> **WE BUILD LEGACIES.**
+
+Do not necessarily use this exact wording if the company's actual brand positioning suggests something better.
+
+Keep the headline short.
+
+Underneath:
+
+A very short supporting statement describing the company.
+
+Example:
+
+> Construction management and execution delivered with precision, transparency and accountability.
+
+Keep this short.
+
+---
+
+## HERO FOOTER DETAILS
+
+At the bottom of the hero, subtly display information such as:
+
+`CONSTRUCTION MANAGEMENT`
+
+`ENGINEERING`
+
+`EXECUTION`
+
+or real company capabilities extracted from the existing website.
+
+On the opposite side:
+
+**SCROLL TO EXPLORE ↓**
+
+Use very subtle motion.
+
+---
+
+# CINEMATIC HERO VIDEO
+
+The hero video should look like a premium architectural film.
+
+The visual should ideally feature:
+
+* a sophisticated modern building
+* realistic construction/finished-project environment
+* early morning or golden-hour light
+* slow camera movement
+* architectural details
+* subtle human activity
+* cranes or construction equipment only where appropriate
+* realistic materials
+* concrete
+* glass
+* steel
+* natural shadows
+* realistic Indian/modern urban environment if appropriate
+
+The camera movement should be extremely slow.
+
+No dramatic drone spins.
+
+No fast cuts.
+
+No text inside the generated video.
+
+No logos.
+
+No watermarks.
+
+No artificial-looking CGI.
+
+The video must leave enough visual breathing room for website typography.
+
+---
+
+# COMPANY INTRODUCTION
+
+After the hero, do NOT create a conventional "About Us" card.
+
+Instead create a large editorial statement.
+
+Example:
+
+## CONSTRUCTION IS MORE THAN CONCRETE.
+
+Then reveal individual lines progressively:
+
+**It's planning.**
+
+**It's people.**
+
+**It's precision.**
+
+**It's responsibility.**
+
+Then introduce the company in a concise paragraph.
+
+Use the actual company information extracted from the existing website.
+
+This section should communicate the company's philosophy rather than simply repeating its About Us page.
+
+---
+
+# MISSION & VISION
+
+Integrate Mission and Vision into the storytelling.
+
+Do not make them look like two boring cards.
+
+Use large typography.
+
+Example:
+
+### OUR MISSION
+
+> To deliver construction projects with precision, transparency and uncompromising quality.
+
+Then:
+
+### OUR VISION
+
+> To create lasting spaces that shape communities and stand the test of time.
+
+Use the company's actual mission and vision if available.
+
+If the existing website does not contain them, create placeholders that can easily be replaced later.
+
+The section should feel editorial and premium.
+
+---
+
+# SELECTED PROJECTS
+
+Projects are one of the most important parts of this website.
+
+Use the actual projects extracted from the existing website.
+
+Do NOT present them as a grid of identical cards.
+
+Instead create a visually rich **Selected Work** section.
+
+Example:
+
+# SELECTED WORK
+
+Then display projects using large images.
+
+Project layouts can alternate:
+
+* large image
+* smaller supporting image
+* asymmetric positioning
+* large project title
+* location
+* project category
+
+Example:
+
+### 01
+
+# PROJECT NAME
+
+Commercial
+Chhatrapati Sambhajinagar, Maharashtra
+
+**View Project →**
+
+Then transition naturally into the next project.
+
+---
+
+# PROJECT IMAGE INTERACTIONS
+
+When the user hovers over a project:
+
+* image should subtly zoom to approximately 1.03x
+* cursor/button interaction can appear
+* project title may move slightly
+* transition should be smooth
+
+Do NOT make the image shake, rotate, bounce or perform exaggerated effects.
+
+---
+
+# HORIZONTAL PROJECT EXPERIENCE
+
+For the selected-project section, use a subtle horizontal scrolling experience where appropriate.
+
+The user scrolls vertically and the project gallery can move horizontally for one carefully controlled section.
+
+It should feel:
+
+**editorial + cinematic + architectural**
+
+not like a complicated carousel.
+
+Do not force horizontal scrolling across the entire website.
+
+Use it only where it improves the storytelling.
+
+---
+
+# PROJECT DATA
+
+Extract project information from the existing website.
+
+Use:
+
+* project name
+* project category
+* location
+* project description
+* project images
+* completion information
+* project scope
+* any available specifications
+
+Do not invent project facts.
+
+If some information is unavailable, leave it out rather than fabricating it.
+
+---
+
+# SERVICES
+
+Keep the Services section minimal.
+
+Do NOT create six/seven colorful cards.
+
+Instead use large typography and simple structured rows.
+
+Example:
+
+# WHAT WE DO
+
+### 01 — PROJECT MANAGEMENT
+
+Short description.
+
+### 02 — CONSTRUCTION MANAGEMENT
+
+Short description.
+
+### 03 — ENGINEERING & EXECUTION
+
+Short description.
+
+### 04 — QUALITY & CONTROL
+
+Short description.
+
+Only include services actually offered by the company.
+
+Use information extracted from the existing website.
+
+---
+
+# COMPANY NUMBERS / TRUST STRIP
+
+Create a very clean trust section.
+
+Example:
+
+**25+**
+Projects Delivered
+
+**10+**
+Years Experience
+
+**1M+**
+Sq. Ft. Built
+
+**XX**
+Clients / Locations
+
+Use real numbers if available.
+
+If the information isn't available, create clearly identifiable dummy placeholders that can easily be replaced.
+
+Do not invent fake achievements and present them as factual.
+
+---
+
+# TRUST STRIP
+
+Add a subtle horizontal trust strip.
+
+For now, use **dummy placeholder client/company logos or neutral placeholders** if the actual logos are not available.
+
+Label it subtly:
+
+**TRUSTED BY**
+
+The trust strip should be understated.
+
+It should not look like an advertisement banner.
+
+Use monochrome or muted treatment so it fits the architectural aesthetic.
+
+---
+
+# OPTIONAL PHILOSOPHY SECTION
+
+If the page needs one additional storytelling section, use something like:
+
+# BUILT DIFFERENTLY.
+
+Then reveal 3–4 short principles:
+
+**WE PLAN BEFORE WE BUILD.**
+
+**WE COMMUNICATE BEFORE PROBLEMS GROW.**
+
+**WE TAKE OWNERSHIP FROM START TO FINISH.**
+
+**QUALITY IS NEVER AN AFTERTHOUGHT.**
+
+Use actual company values where available.
+
+Do not add this section if the homepage is already visually complete without it.
+
+Remember:
+
+**Minimalism is more important than adding more content.**
+
+---
+
+# CONTACT / REQUEST A QUOTE
+
+This is a critical conversion section.
+
+Make it visually strong.
+
+Example:
+
+# HAVE A PROJECT
+
+# IN MIND?
+
+Short supporting line:
+
+> Tell us a little about your project and our team will get in touch.
+
+Then:
+
+**REQUEST A QUOTE →**
+
+The button should take the user to the Contact page.
+
+---
+
+# CONTACT PAGE
+
+Keep the contact form extremely simple.
+
+Do NOT ask 10–15 questions.
+
+Only collect:
+
+### Name
+
+### Email
+
+### Contact Number
+
+### Message
+
+Message placeholder:
+
+> Tell us briefly about your project...
+
+Button:
+
+**SEND INQUIRY →**
+
+Keep the form elegant and spacious.
+
+No unnecessary fields.
+
+---
+
+# CONTACT PAGE DESIGN
+
+Use a split layout.
+
+Left:
+
+Large editorial headline:
+
+> LET'S BUILD
+> SOMETHING
+> GREAT.
+
+Right:
+
+Simple contact form.
+
+Also display:
+
+* phone
+* email
+* office address
+* Google Maps/location if available
+* social links if available
+
+Keep everything clean.
+
+---
+
+# ANIMATION SYSTEM
+
+Animations are extremely important, but they MUST remain subtle.
+
+The goal is:
+
+**"This feels expensive."**
+
+Not:
+
+**"Look at all these animations."**
+
+---
+
+## 1. Smooth page transitions
+
+Use subtle page transitions between pages.
+
+No flashy transition effects.
+
+---
+
+## 2. Text reveal
+
+When text enters the viewport:
+
+Words or lines should gently slide upward.
+
+Example:
+
+Opacity 0 → 1
+
+Y position slightly below → natural position.
+
+Use smooth easing.
+
+---
+
+## 3. Image reveal
+
+Images should initially be slightly masked.
+
+As they enter the viewport:
+
+mask opens → image reveals itself.
+
+This should feel like an architectural photograph being uncovered.
+
+---
+
+## 4. Image zoom
+
+On hover:
+
+Scale approximately:
+
+`1.00 → 1.03`
+
+Use a smooth transition.
+
+Never exaggerate.
+
+---
+
+## 5. Parallax
+
+Use very subtle parallax on selected large imagery.
+
+Avoid extreme movement.
+
+---
+
+## 6. Magnetic buttons
+
+Implement subtle magnetic behavior for major CTAs such as:
+
+**Request a Quote**
+
+**View Project**
+
+The button should gently respond to the cursor.
+
+Keep the movement extremely small.
+
+---
+
+## 7. Cursor interaction
+
+If a custom cursor is implemented, keep it minimal.
+
+For example:
+
+Hovering over a project can display:
+
+**VIEW →**
+
+Do not create a giant animated cursor.
+
+---
+
+## 8. Scroll animations
+
+Elements should appear naturally as the user scrolls.
+
+Do not animate every single element.
+
+Some elements should simply remain static.
+
+Premium design requires restraint.
+
+---
+
+# RESPONSIVE DESIGN
+
+The website must be fully responsive.
+
+Design specifically for:
+
+* desktop
+* laptop
+* tablet
+* mobile
+
+Do NOT simply shrink the desktop layout.
+
+Mobile should have its own carefully considered composition.
+
+The cinematic hero should still feel impressive on mobile.
+
+Typography must remain readable.
+
+Horizontal project interactions must not become frustrating on touch devices.
+
+Navigation should transform into a clean mobile menu.
+
+---
+
+# PERFORMANCE
+
+This website must feel lightweight and fast.
+
+Optimize:
+
+* images
+* videos
+* animations
+* fonts
+* loading behavior
+
+Use lazy loading where appropriate.
+
+The cinematic hero video should be optimized for web delivery.
+
+Do not sacrifice performance for visual effects.
+
+The website should feel smooth even on average devices.
+
+---
+
+# IMAGE TREATMENT
+
+Use the company's actual project images wherever possible.
+
+Do not replace real project photography with generic stock photography.
+
+If images from the existing website are accessible, use them appropriately.
+
+Maintain their authenticity.
+
+Do not unnecessarily over-process photographs.
+
+Use:
+
+* large crops
+* editorial framing
+* whitespace
+* asymmetric layouts
+* subtle overlays
+
+Photography should be one of the primary design elements.
+
+---
+
+# FOOTER
+
+Keep the footer minimal.
+
+Include:
+
+Company logo
+
+Short company statement
+
+Navigation
+
+Contact details
+
+Social links if available
+
+Copyright
+
+Example:
+
+> BUILDING WITH PURPOSE.
+> DELIVERING WITH PRECISION.
+
+Do not make the footer enormous.
+
+---
+
+# IMPORTANT DESIGN RULES
+
+1. **Minimalism over quantity.**
+2. **Real project photography over stock imagery.**
+3. **Typography over decorative UI.**
+4. **Whitespace over unnecessary cards.**
+5. **Subtle animation over flashy animation.**
+6. **Projects over generic marketing content.**
+7. **Trust over exaggerated claims.**
+8. **Premium feeling over feature quantity.**
+9. **Fast performance over unnecessary effects.**
+10. **Every section must have a purpose.**
+
+---
+
+# VISUAL REFERENCE
+
+The overall visual quality should feel inspired by the best parts of:
+
+* premium architecture studios
+* high-end construction management firms
+* engineering companies
+* luxury real-estate brands
+* editorial design websites
+
+But DO NOT copy any specific website.
+
+Create an original visual identity.
+
+---
+
+# CONTENT RULE
+
+Use the existing company website as the primary source of truth.
+
+Extract and reuse:
+
+* company information
+* project information
+* services
+* project names
+* project descriptions
+* images
+* contact information
+* company history
+* mission
+* vision
+* achievements
+* testimonials
+* client information
+
+Do not fabricate facts.
+
+If something is missing, use a clearly identifiable placeholder rather than inventing information.
+
+---
+
+# FINAL EXPERIENCE
+
+The final website should feel like a **premium digital identity for an established construction-management company**.
+
+When someone lands on the website, the experience should progress naturally:
+
+**CINEMATIC PROJECT**
+
+↓
+
+**POWERFUL STATEMENT**
+
+↓
+
+**COMPANY PHILOSOPHY**
+
+↓
+
+**SELECTED WORK**
+
+↓
+
+**CAPABILITY**
+
+↓
+
+**TRUST**
+
+↓
+
+**CONTACT**
+
+And then:
+
+> **Let's build something great.**
+
+The website should feel:
+
+**Bright.**
+
+**Quiet.**
+
+**Confident.**
+
+**Architectural.**
+
+**Premium.**
+
+**Human.**
+
+**Expensive.**
+
+But never excessive.
+
+## MOST IMPORTANT INSTRUCTION
+
+Do not over-design this website.
+
+If a section, animation, card, component, paragraph, icon, or visual element does not improve the experience, **remove it**.
+
+The final result should make the visitor remember the **company, its work and its credibility**, not the website's animations.
