@@ -2,9 +2,7 @@
 import { initHeroCanvas } from './heroCanvas.js';
 import { PROJECTS_DATA, SERVICES_DATA } from './projectsData.js';
 import { initNavigation } from './navigation.js';
-THIS_IS_INTENTIONALLY_BROKEN 
- 8433435fbe7
-349045ujrfendbcvjg
+
 document.addEventListener('DOMContentLoaded', () => {
   // 1. Initialize Hero Cinematic Canvas Video
   initHeroCanvas('hero-canvas', '/assets/images/hero.jpg');
